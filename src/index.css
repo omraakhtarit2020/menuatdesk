@@ -41,7 +41,7 @@ body {
   margin-top: 4rem;
 }
 .filter-btn{
-  margin: 3px;
+  margin: 3.2px;
   padding:0.375rem 0.75rem ;
   font-size: larger;
   font-family: monospace;
@@ -61,7 +61,7 @@ body {
   height: 200px;
   width: 100%;
   border: 0.25rem solid burlywood;
-  border-radius: 0.25rem;
+  border-radius: 0.26rem;
   display: block;
 }
 .item-info header {
